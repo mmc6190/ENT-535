@@ -1,0 +1,25 @@
+﻿plot,block,treatment,date,quadrat,cotyledon,small,medium,tall,highest
+101,b1,spring alfalfa orchard grass,6/30/22,0.25^2,0,4,0,2,0
+102,b1,rye silage ssgrass,6/30/22,0.25^2,0,10,1,0,0
+103,b1,fall wheat clover,6/30/22,0.25^2,0,0,0,0,0
+104,b1,fall wheat cc mix,6/30/22,0.25^2,0,0,0,0,0
+105,b1,spring alfalfa oats,6/30/22,0.25^2,0,2,2,0,0
+106,b1,oats cc mix,6/30/22,0.25^2,1,0,0,0,0
+201,b2,fall wheat cc mix,6/30/22,0.25^2,0,0,0,0,0
+202,b2,spring alfalfa oats,6/30/22,0.25^2,0,3,1,2,0
+203,b2,fall wheat clover,6/30/22,0.25^2,0,0,0,1,0
+204,b2,spring alfalfa orchard grass,6/30/22,0.25^2,0,0,4,7,4
+205,b2,oats cc mix,6/30/22,0.25^2,0,0,1,0,0
+206,b2,rye silage ssgrass,6/30/22,0.25^2,0,5,18,2,0
+301,b3,rye silage ssgrass,6/30/22,0.25^2,1,46,0,0,0
+302,b3,oats cc mix,6/30/22,0.25^2,0,2,0,0,0
+303,b3,fall wheat cc mix,6/30/22,0.25^2,0,0,0,0,0
+304,b3,spring alfalfa oats,6/30/22,0.25^2,0,4,2,0,0
+305,b3,fall wheat clover,6/30/22,0.25^2,0,0,1,2,2
+306,b3,spring alfalfa orchard grass,6/30/22,0.25^2,0,2,4,6,6
+401,b4,fall wheat clover,6/30/22,0.25^2,0,6,3,0,0
+402,b4,spring alfalfa orchard grass,6/30/22,0.25^2,0,4,0,6,2
+403,b4,rye silage ssgrass,6/30/22,0.25^2,0,18,4,0,0
+404,b4,oats cc mix,6/30/22,0.25^2,0,3,0,1,0
+405,b4,spring alfalfa oats,6/30/22,0.25^2,0,7,2,0,0
+406,b4,fall wheat cc mix,6/30/22,0.25^2,0,0,0,0,0
